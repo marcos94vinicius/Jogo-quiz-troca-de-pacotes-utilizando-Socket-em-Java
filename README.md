@@ -1,2 +1,2 @@
 # Jogo-quiz-troca-de-pacotes-utilizando-Socket-em-Java
-Jogo de Quiz implementado em java que realiza troca de pacotes utilizando Socket
+Jogo de Quiz implementado em java que realiza troca de pacotes utilizando Socket. O jogo basicamente consiste de um servidor e dois clientes, onde primeiro conecta-se no servidor o primeiro cliente a ser executado, depois o mesmo com o segundo, e o primeiro cliente responde a 10 perguntas, logo em seguida, o outro cliente responde as mesmas 10 perguntas, o servidor analisa as respostas de cada cliente e envia uma mensagem pro cliente que obteve mais acertos dizendo que o mesmo foi vencedor e uma mensagem para o outro cliente dizendo que ele foi o perdedor, ambos os clientes recebem sua pontuação.
